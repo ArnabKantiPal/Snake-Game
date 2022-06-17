@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../coffee/.idea/coffee.iml" filepath="$PROJECT_DIR$/../coffee/.idea/coffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coffeeMachine/.idea/coffeeMachine.iml" filepath="$PROJECT_DIR$/../coffeeMachine/.idea/coffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/day-20-snake-part-1.iml" filepath="$PROJECT_DIR$/.idea/day-20-snake-part-1.iml" />
+    </modules>
+  </component>
+</project>
